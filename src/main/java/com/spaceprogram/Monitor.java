@@ -1,4 +1,4 @@
-package org.example;
+package com.spaceprogram;
 
 public class Monitor implements Runnable {
     TelemetrySystem panel;

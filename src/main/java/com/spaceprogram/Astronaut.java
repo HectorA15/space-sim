@@ -1,4 +1,4 @@
-package org.example;
+package com.spaceprogram;
 
 /**
  * El astronauta se encarga de reparar los daños y de investigar las cosas, es un hilo escritor y lector, puede modificar el panel y leerlo para saber que hacer

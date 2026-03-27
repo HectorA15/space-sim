@@ -1,4 +1,4 @@
-package org.example;
+package com.spaceprogram;
 
 import java.util.Random;
 
